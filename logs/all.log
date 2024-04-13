@@ -1,0 +1,19 @@
+2024-04-13 14:10:10:1010 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2024-04-13 14:10:34:1034 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2024-04-13 14:10:40:1040 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2024-04-13 14:10:40:1040 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2024-04-13 14:10:50:1050 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2024-04-13 14:10:50:1050 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2024-04-13 14:10:55:1055 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2024-04-13 14:10:55:1055 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2024-04-13 14:10:56:1056 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2024-04-13 14:10:56:1056 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2024-04-13 14:11:05:115 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2024-04-13 14:11:05:115 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2024-04-13 14:11:14:1114 - [31merror[39m - [31mNão foi possível conectar[39m
+2024-04-13 14:11:14:1114 - [31merror[39m - [31mErro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2024-04-13 14:11:14:1114 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2024-04-13 14:11:18:1118 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2024-04-13 14:11:18:1118 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2024-04-13 14:12:25:1225 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2024-04-13 14:12:25:1225 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
