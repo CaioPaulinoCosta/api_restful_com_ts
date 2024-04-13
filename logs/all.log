@@ -31,3 +31,7 @@
 2024-04-13 14:27:35:2735 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
 2024-04-13 14:27:39:2739 - [32minfo[39m - [32mConectou ao banco de dados![39m
 2024-04-13 14:27:39:2739 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2024-04-13 14:28:26:2826 - [32minfo[39m - [32mConectou ao banco de dados![39m
+2024-04-13 14:28:26:2826 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2024-04-13 14:28:28:2828 - [35mhttp[39m - [35mGET /api/test 200 - - 3.299 ms[39m
+[35m[39m
