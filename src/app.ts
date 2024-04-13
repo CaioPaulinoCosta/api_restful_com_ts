@@ -1,3 +1,6 @@
+// ENV variables
+require("dotenv").config();
+
 import express from "express";
 import config from "config";
 
